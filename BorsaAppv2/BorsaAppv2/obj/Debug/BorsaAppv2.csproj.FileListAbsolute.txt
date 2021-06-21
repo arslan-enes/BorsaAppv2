@@ -1,0 +1,15 @@
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\bin\Debug\BorsaAppv2.exe.config
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\bin\Debug\BorsaAppv2.exe
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\bin\Debug\BorsaAppv2.pdb
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.csprojAssemblyReference.cache
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.Form1.resources
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.Properties.Resources.resources
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.csproj.GenerateResource.cache
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.csproj.CoreCompileInputs.cache
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.exe
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.pdb
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.AdminOnayEkran.resources
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.SatinAlmaİslemleri.resources
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.ParaEkle.resources
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.Main.resources
+C:\Users\enesf\source\repos\BorsaAppv2\BorsaAppv2\obj\Debug\BorsaAppv2.SatinAlmaGecmisi.resources
